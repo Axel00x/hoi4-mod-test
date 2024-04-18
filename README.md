@@ -1,1 +1,3 @@
 # hoi4-mod-test
+### Il codice scritto è solo un'esempio per una mod di HOI4
+Lavoro in corso...
